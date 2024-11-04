@@ -21,3 +21,22 @@ criaCartao(
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
+
+criarCartão(
+'Matematica',
+'Quanto é 4.4+10?',
+'26'
+)
+
+criarCartão(
+'Biologia'
+'quantas patas tem os araquinedeos?',
+'8 patas'
+)
+
+criarCartão(
+'Ingles',
+'Como falar bom dia em inglês?',
+'Good morning!'
+)
+
